@@ -12,9 +12,14 @@ Personal implementations and learning notes inspired by *AI in Chemical Engineer
 | [04 — t-SNE and UMAP](notebooks/04_tSNE_and_UMAP.ipynb) | Chapter 3 | Nonlinear dimensionality reduction |
 | [05 — Clustering](notebooks/05_Clustering.ipynb) | Chapter 4 | K-Means, DBSCAN, HDBSCAN |
 | [06 — Synthetic Pyrolysis Case Study](notebooks/06_Synthetic_Pyrolysis_Case_Study.ipynb) | Inspired by Chapter 5 | PCA, outlier analysis, sampling, DBSCAN, PaCMAP, t-SNE |
+| [07 — Supervised Learning](notebooks/07_Supervised_Learning.ipynb) | Chapter 6 | SVM, KNN, adaptive process monitoring, fault detection, ANN, Random Forest |
 
 ## About the Chapter 5 case study
 
 The pyrolysis notebook is an independent synthetic implementation inspired by the book's case study. It uses constructed data and injected anomalies, not plant measurements. Its time-dependent patterns are specified during data generation, and it does not contain a direct coke-deposition measurement. Results are exploratory and are not validated process diagnoses.
 
 The notebooks combine concepts from the book with my own code, synthetic data generation, and analysis choices.
+
+## Chapter 6 dataset
+
+The Chapter 6 notebook uses [the synthetic pyrolysis dataset](data/pyrolysis_90day.csv) generated for the Chapter 5 case study. The dataset contains no plant measurements.
