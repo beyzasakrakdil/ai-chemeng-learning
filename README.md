@@ -13,6 +13,7 @@ Personal implementations and learning notes inspired by *AI in Chemical Engineer
 | [05 — Clustering](notebooks/05_Clustering.ipynb) | Chapter 4 | K-Means, DBSCAN, HDBSCAN |
 | [06 — Synthetic Pyrolysis Case Study](notebooks/06_Synthetic_Pyrolysis_Case_Study.ipynb) | Inspired by Chapter 5 | PCA, outlier analysis, sampling, DBSCAN, PaCMAP, t-SNE |
 | [07 — Supervised Learning](notebooks/07_Supervised_Learning.ipynb) | Chapter 6 | SVM, KNN, adaptive process monitoring, fault detection, ANN, Random Forest |
+| [08 — Predictive Models](notebooks/08_Predictive_Models.ipynb) | Chapter 7 | Kinetic and hybrid models, SVR, Jaya, Sobol analysis |
 
 ## About the Chapter 5 case study
 
